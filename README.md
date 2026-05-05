@@ -32,4 +32,8 @@ Matplotlib & Seaborn for static visualizations
 National Digital Payment Growth Trend
 <img width="1247" height="617" alt="image" src="https://github.com/user-attachments/assets/0f61272f-8a0a-4844-91b2-860b6876d6d4" />
 
+Distribution of Transaction Types
+<img width="1265" height="647" alt="image" src="https://github.com/user-attachments/assets/716197de-62e1-4d3c-afd8-4c2e1f43229d" />
+
+
   
